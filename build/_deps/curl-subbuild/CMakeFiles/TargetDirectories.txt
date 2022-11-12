@@ -1,0 +1,3 @@
+/Users/linkling/Code/CS106L/build/_deps/curl-subbuild/CMakeFiles/curl-populate.dir
+/Users/linkling/Code/CS106L/build/_deps/curl-subbuild/CMakeFiles/edit_cache.dir
+/Users/linkling/Code/CS106L/build/_deps/curl-subbuild/CMakeFiles/rebuild_cache.dir

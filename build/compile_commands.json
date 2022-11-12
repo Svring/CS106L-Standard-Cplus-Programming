@@ -1,0 +1,1017 @@
+[
+{
+  "directory": "/Users/linkling/Code/CS106L/build",
+  "command": "/usr/bin/clang++  -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c /Users/linkling/Code/CS106L/cs106L-assignment1-master/main.cpp",
+  "file": "/Users/linkling/Code/CS106L/cs106L-assignment1-master/main.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build",
+  "command": "/usr/bin/clang++  -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++17 -o CMakeFiles/main.dir/error.cpp.o -c /Users/linkling/Code/CS106L/cs106L-assignment1-master/error.cpp",
+  "file": "/Users/linkling/Code/CS106L/cs106L-assignment1-master/error.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/adler32.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/adler32.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/adler32.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/chunkset.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/chunkset.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/chunkset.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/compare258.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/compare258.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/compare258.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/compress.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/compress.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/compress.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/crc32.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/crc32.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/crc32.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/crc32_comb.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/crc32_comb.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/crc32_comb.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/deflate.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/deflate_fast.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate_fast.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate_fast.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/deflate_medium.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate_medium.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate_medium.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/deflate_quick.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate_quick.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate_quick.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/deflate_slow.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate_slow.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/deflate_slow.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/functable.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/functable.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/functable.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/infback.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/infback.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/infback.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/inffast.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/inffast.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/inffast.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/inflate.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/inflate.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/inflate.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/inftrees.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/inftrees.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/inftrees.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/insert_string.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/insert_string.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/insert_string.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/trees.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/trees.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/trees.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/uncompr.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/uncompr.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/uncompr.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/zutil.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/zutil.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/zutil.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/arch/arm/armfeature.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/armfeature.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/armfeature.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -march=armv8-a+crc -fno-lto -o CMakeFiles/zlib.dir/arch/arm/crc32_acle.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/crc32_acle.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/crc32_acle.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -march=armv8-a+crc -fno-lto -o CMakeFiles/zlib.dir/arch/arm/insert_string_acle.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/insert_string_acle.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/insert_string_acle.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -march=armv8-a+simd -fno-lto -o CMakeFiles/zlib.dir/arch/arm/adler32_neon.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/adler32_neon.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/adler32_neon.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -march=armv8-a+simd -fno-lto -o CMakeFiles/zlib.dir/arch/arm/chunkset_neon.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/chunkset_neon.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/chunkset_neon.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -march=armv8-a+simd -fno-lto -o CMakeFiles/zlib.dir/arch/arm/slide_neon.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/slide_neon.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/arch/arm/slide_neon.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/gzlib.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/gzlib.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/gzlib.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/gzread.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/gzread.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/gzread.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/zlib-build",
+  "command": "/usr/bin/clang -DARM_ACLE_CRC_HASH -DARM_FEATURES -DARM_NEON_ADLER32 -DARM_NEON_CHUNKSET -DARM_NEON_SLIDEHASH -DCPR_ENABLE_SSL -DHAVE_BUILTIN_CTZ -DHAVE_BUILTIN_CTZLL -DHAVE_SYS_SDT_H -DHAVE_VISIBILITY_HIDDEN -DHAVE_VISIBILITY_INTERNAL -DUNALIGNED64_OK -DUNALIGNED_OK -DWITH_GZFILEOP -DZLIB_COMPAT -DZLIB_DLL -I/Users/linkling/Code/CS106L/build/_deps/zlib-build -I/Users/linkling/Code/CS106L/build/_deps/zlib-src  -Wall -Wno-implicit-fallthrough -g -DZLIB_DEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fno-semantic-interposition -std=c99 -o CMakeFiles/zlib.dir/gzwrite.c.o -c /Users/linkling/Code/CS106L/build/_deps/zlib-src/gzwrite.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/zlib-src/gzwrite.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/altsvc.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/altsvc.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/altsvc.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/amigaos.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/amigaos.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/amigaos.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/asyn-ares.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/asyn-ares.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/asyn-ares.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/asyn-thread.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/asyn-thread.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/asyn-thread.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/base64.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/base64.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/base64.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/bufref.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/bufref.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/bufref.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/c-hyper.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/c-hyper.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/c-hyper.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/conncache.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/conncache.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/conncache.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/connect.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/connect.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/connect.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/content_encoding.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/content_encoding.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/content_encoding.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/cookie.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/cookie.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/cookie.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_addrinfo.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_addrinfo.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_addrinfo.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_ctype.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_ctype.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_ctype.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_des.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_des.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_des.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_endian.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_endian.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_endian.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_fnmatch.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_fnmatch.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_fnmatch.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_get_line.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_get_line.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_get_line.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_gethostname.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_gethostname.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_gethostname.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_gssapi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_gssapi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_gssapi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_memrchr.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_memrchr.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_memrchr.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_multibyte.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_multibyte.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_multibyte.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_ntlm_core.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_ntlm_core.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_ntlm_core.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_ntlm_wb.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_ntlm_wb.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_ntlm_wb.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_path.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_path.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_path.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_range.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_range.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_range.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_rtmp.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_rtmp.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_rtmp.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_sasl.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_sasl.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_sasl.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_sspi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_sspi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_sspi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/curl_threads.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_threads.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/curl_threads.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/dict.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/dict.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/dict.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/doh.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/doh.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/doh.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/dotdot.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/dotdot.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/dotdot.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/dynbuf.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/dynbuf.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/dynbuf.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/easy.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/easy.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/easy.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/easygetopt.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/easygetopt.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/easygetopt.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/easyoptions.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/easyoptions.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/easyoptions.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/escape.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/escape.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/escape.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/file.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/file.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/file.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/fileinfo.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/fileinfo.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/fileinfo.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/formdata.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/formdata.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/formdata.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/ftp.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/ftp.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/ftp.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/ftplistparser.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/ftplistparser.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/ftplistparser.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/getenv.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/getenv.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/getenv.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/getinfo.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/getinfo.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/getinfo.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/gopher.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/gopher.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/gopher.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/hash.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hash.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hash.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/hmac.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hmac.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hmac.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/hostasyn.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostasyn.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostasyn.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/hostcheck.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostcheck.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostcheck.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/hostip.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostip.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostip.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/hostip4.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostip4.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostip4.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/hostip6.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostip6.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostip6.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/hostsyn.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostsyn.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hostsyn.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/hsts.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hsts.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/hsts.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/http.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/http2.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http2.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http2.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/http_chunks.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_chunks.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_chunks.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/http_digest.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_digest.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_digest.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/http_negotiate.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_negotiate.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_negotiate.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/http_ntlm.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_ntlm.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_ntlm.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/http_proxy.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_proxy.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_proxy.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/http_aws_sigv4.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_aws_sigv4.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/http_aws_sigv4.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/idn_win32.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/idn_win32.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/idn_win32.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/if2ip.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/if2ip.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/if2ip.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/imap.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/imap.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/imap.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/inet_ntop.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/inet_ntop.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/inet_ntop.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/inet_pton.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/inet_pton.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/inet_pton.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/krb5.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/krb5.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/krb5.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/ldap.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/ldap.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/ldap.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/llist.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/llist.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/llist.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/md4.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/md4.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/md4.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/md5.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/md5.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/md5.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/memdebug.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/memdebug.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/memdebug.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/mime.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/mime.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/mime.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/mprintf.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/mprintf.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/mprintf.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/mqtt.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/mqtt.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/mqtt.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/multi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/multi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/multi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/netrc.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/netrc.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/netrc.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/non-ascii.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/non-ascii.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/non-ascii.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/nonblock.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/nonblock.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/nonblock.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/openldap.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/openldap.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/openldap.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/parsedate.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/parsedate.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/parsedate.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/pingpong.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/pingpong.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/pingpong.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/pop3.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/pop3.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/pop3.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/progress.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/progress.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/progress.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/psl.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/psl.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/psl.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/rand.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/rand.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/rand.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/rename.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/rename.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/rename.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/rtsp.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/rtsp.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/rtsp.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/select.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/select.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/select.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/sendf.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/sendf.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/sendf.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/setopt.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/setopt.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/setopt.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/sha256.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/sha256.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/sha256.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/share.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/share.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/share.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/slist.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/slist.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/slist.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/smb.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/smb.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/smb.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/smtp.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/smtp.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/smtp.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/socketpair.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/socketpair.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/socketpair.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/socks.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/socks.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/socks.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/socks_gssapi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/socks_gssapi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/socks_gssapi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/socks_sspi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/socks_sspi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/socks_sspi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/speedcheck.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/speedcheck.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/speedcheck.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/splay.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/splay.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/splay.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/strcase.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strcase.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strcase.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/strdup.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strdup.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strdup.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/strerror.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strerror.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strerror.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/strtok.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strtok.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strtok.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/strtoofft.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strtoofft.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/strtoofft.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/system_win32.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/system_win32.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/system_win32.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/telnet.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/telnet.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/telnet.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/tftp.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/tftp.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/tftp.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/timeval.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/timeval.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/timeval.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/transfer.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/transfer.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/transfer.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/url.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/url.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/url.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/urlapi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/urlapi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/urlapi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/version.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/version.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/version.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/version_win32.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/version_win32.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/version_win32.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/warnless.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/warnless.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/warnless.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/wildcard.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/wildcard.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/wildcard.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/x509asn1.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/x509asn1.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/x509asn1.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/cleartext.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/cleartext.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/cleartext.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/cram.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/cram.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/cram.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/digest.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/digest.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/digest.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/digest_sspi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/digest_sspi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/digest_sspi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/gsasl.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/gsasl.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/gsasl.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/krb5_gssapi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/krb5_gssapi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/krb5_gssapi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/krb5_sspi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/krb5_sspi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/krb5_sspi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/ntlm.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/ntlm.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/ntlm.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/ntlm_sspi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/ntlm_sspi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/ntlm_sspi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/oauth2.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/oauth2.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/oauth2.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/spnego_gssapi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/spnego_gssapi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/spnego_gssapi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/spnego_sspi.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/spnego_sspi.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/spnego_sspi.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vauth/vauth.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/vauth.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vauth/vauth.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/bearssl.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/bearssl.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/bearssl.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/gskit.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/gskit.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/gskit.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/gtls.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/gtls.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/gtls.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/keylog.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/keylog.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/keylog.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/mbedtls.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/mbedtls.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/mbedtls.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/mbedtls_threadlock.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/mbedtls_threadlock.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/mbedtls_threadlock.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/mesalink.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/mesalink.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/mesalink.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/nss.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/nss.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/nss.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/openssl.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/openssl.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/openssl.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/rustls.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/rustls.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/rustls.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/schannel.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/schannel.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/schannel.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/schannel_verify.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/schannel_verify.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/schannel_verify.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/sectransp.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/sectransp.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/sectransp.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/vtls.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/vtls.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/vtls.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vtls/wolfssl.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/wolfssl.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vtls/wolfssl.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vquic/ngtcp2.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vquic/ngtcp2.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vquic/ngtcp2.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vquic/quiche.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vquic/quiche.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vquic/quiche.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vquic/vquic.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vquic/vquic.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vquic/vquic.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vssh/libssh.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vssh/libssh.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vssh/libssh.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vssh/libssh2.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vssh/libssh2.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vssh/libssh2.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/curl-build/lib",
+  "command": "/usr/bin/clang -DBUILDING_LIBCURL -DCPR_ENABLE_SSL -DCURL_HIDDEN_SYMBOLS -DHAVE_CONFIG_H -Dlibcurl_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/../include -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib/.. -I/Users/linkling/Code/CS106L/build/_deps/curl-src/lib -I/Users/linkling/Code/CS106L/build/_deps/curl-build/lib -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -fvisibility=hidden -o CMakeFiles/libcurl.dir/vssh/wolfssh.c.o -c /Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vssh/wolfssh.c",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/curl-src/lib/vssh/wolfssh.c"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/auth.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/auth.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/auth.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/bearer.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/bearer.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/bearer.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/cookies.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/cookies.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/cookies.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/cprtypes.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/cprtypes.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/cprtypes.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/curl_container.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/curl_container.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/curl_container.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/curlholder.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/curlholder.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/curlholder.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/error.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/error.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/error.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/multipart.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/multipart.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/multipart.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/parameters.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/parameters.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/parameters.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/payload.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/payload.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/payload.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/proxies.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/proxies.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/proxies.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/proxyauth.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/proxyauth.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/proxyauth.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/session.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/session.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/session.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/timeout.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/timeout.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/timeout.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/unix_socket.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/unix_socket.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/unix_socket.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/util.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/util.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/util.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/response.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/response.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/response.cpp"
+},
+{
+  "directory": "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/clang++ -DCPR_ENABLE_SSL -Dcpr_EXPORTS -I/Users/linkling/Code/CS106L/build/_deps/cpr-src/include -I/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes -I/Users/linkling/Code/CS106L/build/_deps/curl-src/include  -Wall -Wextra -Wpedantic -Werror -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -fPIC -std=gnu++11 -o CMakeFiles/cpr.dir/redirect.cpp.o -c /Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/redirect.cpp",
+  "file": "/Users/linkling/Code/CS106L/build/_deps/cpr-src/cpr/redirect.cpp"
+}
+]

@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include",
+                "/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include",
+                "/Library/Developer/CommandLineTools/usr/include",
+                "/Users/linkling/Code/CS106L/cs106L-assignment1-master/cpr-master/include",
+                "/Users/linkling/Code/CS106L/build/_deps/cpr-build/cpr_generated_includes/cpr"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
