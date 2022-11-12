@@ -10,7 +10,7 @@ find_package(cpr CONFIG REQUIRED)
 # adding all files
 add_executable(main main.cpp wikiscraper.cpp.o error.cpp)
 
-# another apr? I don't really know what I've done cause this is beyond my knowledge
+# another cpr? I don't really know what I've done cause this is beyond my knowledge
 # but it works, nice.
 include(FetchContent)
 
