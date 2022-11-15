@@ -41,12 +41,25 @@ int main() {
         and append that vector to outputLadders.
     */
     // Write code here
+    ifstream file(filename);
+    string content;
+    file >> content;
+    int entry_number = std::stoi(content);
+    while ( entry_number-- > 0 ) {
+        string begin, end;
+        file >> begin, file >> end;;
+        outputLadders.push_back(findWikiLadder(begin, end));
+    }
 
     /*
      * Print out all ladders in outputLadders.
      * We've already implemented this for you!
      */
     // Write code here
+    while ( !outputLadders.empty() ) {
+        cout << outputLadders.back().front() << "->" << outputLadders.back().back() << endl;
+        outputLadders.pop_back();
+    }
 
     return 0;
 }

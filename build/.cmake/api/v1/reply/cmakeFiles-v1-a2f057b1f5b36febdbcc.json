@@ -147,19 +147,6 @@
 			"path" : "/Applications/CMake.app/Contents/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
 		},
 		{
-			"path" : "cpr-master/cpr-config.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/Applications/CMake.app/Contents/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
-		},
-		{
-			"isCMake" : true,
-			"isExternal" : true,
-			"path" : "/Applications/CMake.app/Contents/share/cmake-3.25/Modules/FindPackageMessage.cmake"
-		},
-		{
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/Applications/CMake.app/Contents/share/cmake-3.25/Modules/FetchContent.cmake"

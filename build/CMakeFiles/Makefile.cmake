@@ -99,7 +99,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "_deps/zlib-src/cmake/detect-sanitizer.cmake"
   "_deps/zlib-src/zlib.pc.cmakein"
   "/Users/linkling/Code/CS106L/cs106L-assignment1-master/CMakeLists.txt"
-  "/Users/linkling/Code/CS106L/cs106L-assignment1-master/cpr-master/cpr-config.cmake"
   )
 
 # The corresponding makefile is:
